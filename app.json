@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "random",
-    "slug": "random",
+    "name": "Foodist-random",
+    "slug": "foodist-random",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Generate a random restaurant."
   }
 }
